@@ -1,10 +1,15 @@
 # PyQt5_corona_project
 corona patient manipulation 
--pour que l'application marche correctement il faut d'abord ajouter les personnes 
+
+
+
+
+#Des conseil avant l'utilisation:
+-pour que l'application fonctionne correctement il faut d'abord ajouter les personnes 
 et les maladies 
 
 -pour les indicatif du téléphone il faut les ecriver comme l'exp suivant;
-+21695077703            21695077703 (sans le caractére "+")
++21695077703  => 21695077703 (sans le caractére "+")
 
 -l'enreg et recup en utlisant les format(.txt/.csv)
 
