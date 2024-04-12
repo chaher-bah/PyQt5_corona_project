@@ -4,14 +4,14 @@ corona patient manipulation
 
 
 
-#Des conseil avant l'utilisation:
--pour que l'application fonctionne correctement il faut d'abord ajouter les personnes 
-et les maladies 
+##Des conseil avant l'utilisation:
+-pour que l'application fonctionne correctement il faut d'abord** ajouter les personnes 
+et les maladies **
 
 -pour les indicatif du téléphone il faut les ecriver comme l'exp suivant;
-+21695077703  => 21695077703 (sans le caractére "+")
++21695077703  => 21695077703 _(sans le caractére "+")_
 
--l'enreg et recup en utlisant les format(.txt/.csv)
+-l'enreg et recup en utlisant les ***format(.txt/.csv)***
 
-si vous vouler se récupérer les donnees puis les manipuler il suffit de changer 
+-si vous vouler se récupérer les donnees puis les manipuler il suffit de changer 
 "data_new.csv" par "data.csv" et "data_new_m.csv" par "data_m.csv"
