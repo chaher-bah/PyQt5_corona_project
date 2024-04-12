@@ -1,6 +1,12 @@
 # PyQt5_corona_project
 corona patient manipulation 
+Ce projet fait partie du cours de programmation en **Python** et concerne la manipulation des données des patients atteints du **COVID-19** en utilisant la bibliothèque _PyQt5_ pour l'interface utilisateur (_UI_).
 
+
+## Screenshots 
+
+
+Veuillez vérifier le fichier.
 
 
 
