@@ -4,9 +4,9 @@ corona patient manipulation
 
 
 
-##Des conseil avant l'utilisation:
--pour que l'application fonctionne correctement il faut d'abord** ajouter les personnes 
-et les maladies **
+## Des conseil avant l'utilisation:
+-pour que l'application fonctionne correctement il faut d'abord **ajouter les personnes 
+et les maladies**
 
 -pour les indicatif du téléphone il faut les ecriver comme l'exp suivant;
 +21695077703  => 21695077703 _(sans le caractére "+")_
